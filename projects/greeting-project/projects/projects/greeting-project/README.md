@@ -17,6 +17,15 @@ Today I learned the basics of using github and how to store files in an organize
     The print function prints out a statement to the user.
 - In your own words, what does this program do?
     The file is assigned to function greet_user(). The program first prompts the user to enter their name and then assigns that to the name variable. It then prints out a introductory welcome using the user's name that was entered. At the end(the last two lines) the function greet_user() is ran the program prompts to run the input and print statement.
+
+## Part 5 - Look at What Changed
+What changed between your original and revised program?
+I changed the name so that it asks for the first name, I then also added a new line that asks for the last name. I then changed the print statement so that it prints the first and last name using the new named variables.
+How does GitHub show you those changes?
+Github shows anything removed as red and anything added as green. It also shows the old commit and the new commit side by side so that it can be compared.
+
+## Future Improvements
+If I worked on this project more I would make it more complex by asking the user to enter more attributes about themselves and then the output would be a more complex introductory statement involving more of the user's personalized information. Additionally, I would work on making the code make efficient by asking the user to enter attributes at once instead of having several input lines because it takes longer to go back and forth in a question and answer format as it is now.
     
 ## Final Reflection
 1. What was the most useful thing you learned about GitHub?
