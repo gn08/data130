@@ -25,7 +25,7 @@ How does GitHub show you those changes?
 Github shows anything removed as red and anything added as green. It also shows the old commit and the new commit side by side so that it can be compared.
 
 ## Future Improvements
-If I worked on this project more I would make it more complex by asking the user to enter more attributes about themselves and then the output would be a more complex introductory statement involving more of the user's personalized information. Additionally, I would work on making the code make efficient by asking the user to enter attributes at once instead of having several input lines because it takes longer to go back and forth in a question and answer format as it is now.
+If I worked on this project more I would make it more complex by asking the user to enter more attributes about themselves and then the output would be a more complex introductory statement involving more of the user's personalized information. Additionally, I would work on making the code make efficient by asking the user to enter attributes at once instead of having several input lines because it takes longer to go back and forth in a question and answer format as it is now. 
     
 ## Final Reflection
 1. What was the most useful thing you learned about GitHub?
