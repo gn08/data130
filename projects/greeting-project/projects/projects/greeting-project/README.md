@@ -12,5 +12,8 @@ Today I learned the basics of using github and how to store files in an organize
 
 ## Part 2 - Think About the Code
 - What do you think input() does?
+    The input function takes in an input that the user can enter and assigns it to a variable.
 - What do you think print() does?
+    The print function prints out a statement to the user.
 - In your own words, what does this program do?
+    
