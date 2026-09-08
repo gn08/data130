@@ -16,4 +16,5 @@ Today I learned the basics of using github and how to store files in an organize
 - What do you think print() does?
     The print function prints out a statement to the user.
 - In your own words, what does this program do?
+    The program first prompts the user to enter their name and then assigns that to the name variable. It then prints out a introductory welcome using the user's name that was entered.
     
