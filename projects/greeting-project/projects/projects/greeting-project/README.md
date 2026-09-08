@@ -18,3 +18,13 @@ Today I learned the basics of using github and how to store files in an organize
 - In your own words, what does this program do?
     The file is assigned to function greet_user(). The program first prompts the user to enter their name and then assigns that to the name variable. It then prints out a introductory welcome using the user's name that was entered. At the end(the last two lines) the function greet_user() is ran the program prompts to run the input and print statement.
     
+## Final Reflection
+1. What was the most useful thing you learned about GitHub?
+    The most useful thing I learned was how to create folders and maintain organization throughout the projects. I also learned how to name the files so that they are the correct format, for example .pdf, .py. md, etc.
+3. What was the most confusing?
+   The most confusing was figuring out how to format it so that the files are under one folder, because at first it kept putting files under other files and was created a disorganized format so I had to delete and try again.
+5. What kind of Data Science project would you eventually like to add to your portfolio?
+   Eventually I would like to add game like format that interacts with the user and gives outputs in regards to the different inputs, I would like for there to be many options for inputs and outputs so there is variety and it's fun.
+
+## AI Use Statement (Required)
+No generative AI tools were used.
